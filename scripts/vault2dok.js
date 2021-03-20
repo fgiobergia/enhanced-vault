@@ -47,7 +47,6 @@ const buildDoKLogo = () => {
 
 
   const iid = setInterval(() => {
-    console.log("WAIT");
     const deckIdMatch = window.location.href.match(/[a-f0-9]{8}-(?:[a-f0-9]{4}-){3}[a-f0-9]{12}/);
     const icon = document.getElementById("dok-icon");
 
