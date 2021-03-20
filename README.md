@@ -14,5 +14,4 @@ I will be adding new scripts from time to time, as I create them. If there is so
 ### vault2dok 
 This simple script adds a link to the [Decks of Keyforge](https://decksofkeyforge.com) (DoK) page of any deck opened in the vault. The link is added as a DoK icon below the deck's name. 
 
-![vault2dok](imgs/vault2dok.png)
-
+<img src="imgs/vault2dok.png" width="500"/>
