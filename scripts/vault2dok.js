@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name      Vault2DoK
+// @name      vault2dok
 // @namespace http://f.giobergia.com
 // @author    Flavio Giobergia
 // @version   1
