@@ -8,7 +8,7 @@
 // ==/UserScript==
 
 const buildDoKLogo = () => {
-  	/* This has been extracted from the SVG logo of DoK */
+    /* This has been extracted from the SVG logo of DoK */
     const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
     svg.setAttribute("width", "26");
     svg.setAttribute("height", "35");
